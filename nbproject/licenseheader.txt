@@ -1,0 +1,12 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}File:
+${licensePrefix}Author:
+${licensePrefix}Email:
+${licensePrefix}Class:
+${licensePrefix}Instructor:
+${licensePrefix}Date:
+<#if licenseLast??>
+${licenseLast}
+</#if>
